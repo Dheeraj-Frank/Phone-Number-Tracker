@@ -16,4 +16,5 @@ It is simple app which can find much and more information about phone number. Ju
 <b>Step 5 :- </b>Hit the Search button. <br>
 
 <b>Preview of App :-</b>
+
 <img src="Preview.png">

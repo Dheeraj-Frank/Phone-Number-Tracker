@@ -17,4 +17,6 @@ It is simple app which can find much and more information about phone number. Ju
 
 <b>Preview of App :-</b>
 
+<img src="Preview.png">
+
 

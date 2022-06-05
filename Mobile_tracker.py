@@ -74,22 +74,22 @@ search.place(x=35,y=300)
 Box=PhotoImage(file="bottom png.png")
 Label(root,image=Box).place(x=-2,y=355)
 
-label1=Label(root,text="Country",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="Country",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=50,y=400)
 
-label1=Label(root,text="SIM",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="SIM",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=200,y=400)
 
-label1=Label(root,text="TimeZone",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="TimeZone",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=50,y=450)
 
-label1=Label(root,text="Phone Time",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="Phone Time",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=200,y=450)
 
-label1=Label(root,text="Longitude",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="Longitude",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=50,y=500)
 
-label1=Label(root,text="Latitude",font=("Helvetica",15,"bold"),fg="white",bg="#1ab5ef")
+label1=Label(root,text="Latitude",font=("Helvetica",15,"bold"),fg="white",bg="#57adff")
 label1.place(x=200,y=500)
 
 
